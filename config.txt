@@ -1,0 +1,2 @@
+StaticDataFolderPath = D:\Apps\Quant\StaticData\
+LogFolderPath = D:\Apps\Quant\Log\
